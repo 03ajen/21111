@@ -9,5 +9,6 @@ int main() {
     scanf("%d", &i);
 
     //line 12 is incomplete, refer to page 4 of Operation slides to achieve the requirement.
-    printf("硂俱计计琌%d\n", i%10);
+    printf("硂俱计计琌%d\n", i %10);
 }
+
